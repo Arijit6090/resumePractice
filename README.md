@@ -7,13 +7,17 @@ This repository contains a single `index.html` file that presents a resume-style
 
 ## Demo / Preview
 
-To view the page locally:
+To view the page:
 
 - Option A — Open directly:  
   Double-click `index.html` in your file explorer or open it in your browser (`File → Open File…`).
 
-- Option B — Serve with a simple local server (recommended if you use relative assets later):
+- Option B — Open through deployed link(vercel):
+  https://resume-practice-theta.vercel.app/ (`Copy-Paste in any browser`)
+
+- Option C — Serve with a simple local server (recommended if you use relative assets later):
 ```bash
+
 # using Python 3 (runs a server at http://localhost:8000)
 python -m http.server 8000
 # then open http://localhost:8000 in your browser
